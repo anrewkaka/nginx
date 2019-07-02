@@ -1,6 +1,0 @@
-upstream svn {
-    server lannt-subversion:8080;
-}
-upstream fujinetsvn {
-    server vidh-fujinet-subversion:8080;
-}
